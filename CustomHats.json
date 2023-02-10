@@ -1,0 +1,114 @@
+{
+    "hats": [
+        {
+            "author": "Zenos",
+            "climbresource": "Armin.png",
+            "condition": "None",
+            "name": "Armin",
+            "package": "Re: Take",
+            "reshasha": "500c945e632f10c96b1c087fecc96d45",
+            "reshashc": "500c945e632f10c96b1c087fecc96d45",
+            "resource": "Armin.png"
+        },
+        {
+            "author": "Zenos",
+            "backresource": "Atreus_back.png",
+            "climbresource": "Atreus.png",
+            "condition": "None",
+            "name": "Atreus",
+            "package": "Re: Take",
+            "reshasha": "f8cd8c5f0e8849e8853dabe93a2bf11",
+            "reshashb": "6f156216c89624160565f298defb3719",
+            "reshashc": "f8cd8c5f0e8849e8853dabe93a2bf11",
+            "resource": "Atreus.png"
+        },
+        {
+            "author": "Zenos",
+            "backresource": "Blitzo_back.png",
+            "climbresource": "Blitzo.png",
+            "condition": "None",
+            "name": "Blitzo",
+            "package": "Re: Take",
+            "reshasha": "59b0ea73e00a3875d8f7249c781e8946",
+            "reshashb": "fade9c8f939dfbf52599a43b70e9d535",
+            "reshashc": "59b0ea73e00a3875d8f7249c781e8946",
+            "resource": "Blitzo.png"
+        },
+        {
+            "author": "Zenos",
+            "climbresource": "Diabolo.png",
+            "condition": "None",
+            "name": "Diabolo",
+            "package": "Re: Take",
+            "reshasha": "8a915a661de2c52081df72d2a392af1d",
+            "reshashc": "8a915a661de2c52081df72d2a392af1d",
+            "resource": "Diabolo.png"
+        },
+        {
+            "author": "Zenos",
+            "climbresource": "FooFighter.png",
+            "condition": "None",
+            "name": "FooFighter",
+            "package": "Re: Take",
+            "reshasha": "0ca1932032f5fa61d7030a6e1236df29",
+            "reshashc": "0ca1932032f5fa61d7030a6e1236df29",
+            "resource": "FooFighter.png"
+        },
+        {
+            "author": "Zenos",
+            "backresource": "Kiri_back.png",
+            "climbresource": "Kiri.png",
+            "condition": "None",
+            "name": "Kiri",
+            "package": "Re: Take",
+            "reshasha": "c581185469ad924574f772a7e0a2399b",
+            "reshashb": "dc69b1c6f274eb8b516cbb3d5b1bcfea",
+            "reshashc": "c581185469ad924574f772a7e0a2399b",
+            "resource": "Kiri.png"
+        },
+        {
+            "author": "Zenos",
+            "climbresource": "Kiriko.png",
+            "condition": "None",
+            "name": "Kiriko",
+            "package": "Re: Take",
+            "reshasha": "2dd73c5b3d1932f94a4e5b58b55c347c",
+            "reshashc": "2dd73c5b3d1932f94a4e5b58b55c347c",
+            "resource": "Kiriko.png"
+        },
+        {
+            "author": "Zenos",
+            "climbresource": "Mirio.png",
+            "condition": "None",
+            "name": "Mirio",
+            "package": "Re: Take",
+            "reshasha": "5ca0a705be4544559d9de19d1f6720ad",
+            "reshashc": "5ca0a705be4544559d9de19d1f6720ad",
+            "resource": "Mirio.png"
+        },
+        {
+            "author": "Zenos",
+            "backresource": "Pikachu_back.png",
+            "bounce": true,
+            "climbresource": "Pikachu.png",
+            "condition": "None",
+            "name": "Pikachu",
+            "package": "Re: Take",
+            "reshasha": "b9068d095b7860b6ef3ff54cefc72041",
+            "reshashb": "28ec2c4817d5cae6dbbac17099b71fa8",
+            "reshashc": "b9068d095b7860b6ef3ff54cefc72041",
+            "resource": "Pikachu.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Zenos",
+            "climbresource": "Thorfinn.png",
+            "condition": "None",
+            "name": "Thorfinn",
+            "package": "Re: Take",
+            "reshasha": "5f885d952bde05dc42d9f118d15b159b",
+            "reshashc": "5f885d952bde05dc42d9f118d15b159b",
+            "resource": "Thorfinn.png"
+        }
+    ]
+}
