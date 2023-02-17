@@ -81,12 +81,11 @@
             "resource": "Pikachu.png"
         },
         {
-            "adaptive": true,
             "author": "Zenos",
             "condition": "None",
             "name": "Thorfinn",
             "package": "Re: Take",
-            "reshasha": "5f885d952bde05dc42d9f118d15b159b",
+            "reshasha": "671ecab19829a1db22a596dfd36ff529",
             "resource": "Thorfinn.png"
         }
     ]
