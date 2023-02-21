@@ -64,10 +64,12 @@
         },
         {
             "author": "Zenos",
+            "backresource": "Mirio_back.png",
             "condition": "None",
             "name": "Mirio",
             "package": "Re: Take",
-            "reshasha": "5ca0a705be4544559d9de19d1f6720ad",
+            "reshasha": "79fbfea18f3e98ad22110b8cef10f867",
+            "reshashb": "2a1f7b842ba5d145f72e0c0f220681a9",
             "resource": "Mirio.png"
         },
         {
@@ -77,7 +79,7 @@
             "name": "Pikachu",
             "package": "Re: Take",
             "reshasha": "b9068d095b7860b6ef3ff54cefc72041",
-            "reshashb": "28ec2c4817d5cae6dbbac17099b71fa8",
+            "reshashb": "1f9b9c262b9fcb9654fcf841f225ce99",
             "resource": "Pikachu.png"
         },
         {
