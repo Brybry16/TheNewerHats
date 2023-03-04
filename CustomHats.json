@@ -2,6 +2,16 @@
     "hats": [
         {
             "author": "Zenos",
+            "backresource": "Adibou_back.png",
+            "condition": "None",
+            "name": "Adibou",
+            "package": "Re: Take",
+            "reshasha": "70625d8c9ad8beed71e0fadddb4d171c",
+            "reshashb": "c67b586e7011d87c4d7b01ad08a06aa8",
+            "resource": "Adibou.png"
+        },
+        {
+            "author": "Zenos",
             "condition": "None",
             "name": "Armin",
             "package": "Re: Take",
@@ -39,20 +49,30 @@
         {
             "author": "Zenos",
             "condition": "None",
-            "name": "FooFighter",
+            "name": "Eren Jaeger",
             "package": "Re: Take",
-            "reshasha": "0ca1932032f5fa61d7030a6e1236df29",
-            "resource": "FooFighter.png"
+            "reshasha": "c1f7de8e6a4531e0147e8595bccef116",
+            "resource": "Eren.png"
         },
         {
             "author": "Zenos",
-            "backresource": "Kiri_back.png",
+            "backresource": "Jaskier_back.png",
             "condition": "None",
-            "name": "Kiri",
+            "name": "Jaskier",
             "package": "Re: Take",
-            "reshasha": "608ccd195bfa9ec954e790e989dd4991",
-            "reshashb": "84a30dc7056c29931c0ce4fad3252b9c",
-            "resource": "Kiri.png"
+            "reshasha": "eb494c51c218be58c50cc9946286c206",
+            "reshashb": "a95746c397e3d1db8727bed2e62c03aa",
+            "resource": "Jaskier.png"
+        },
+        {
+            "author": "Zenos",
+            "backresource": "Cal-SW_back.png",
+            "condition": "None",
+            "name": "Cal (Star Wars)",
+            "package": "Re: Take",
+            "reshasha": "8aff78b91717ba3db0008124024b1b28",
+            "reshashb": "588584f79c67c68cea3a5f103b2c4a40",
+            "resource": "Cal-SW.png"
         },
         {
             "author": "Zenos",
@@ -71,24 +91,6 @@
             "reshasha": "79fbfea18f3e98ad22110b8cef10f867",
             "reshashb": "2a1f7b842ba5d145f72e0c0f220681a9",
             "resource": "Mirio.png"
-        },
-        {
-            "author": "Zenos",
-            "backresource": "Pikachu_back.png",
-            "condition": "None",
-            "name": "Pikachu",
-            "package": "Re: Take",
-            "reshasha": "b9068d095b7860b6ef3ff54cefc72041",
-            "reshashb": "1f9b9c262b9fcb9654fcf841f225ce99",
-            "resource": "Pikachu.png"
-        },
-        {
-            "author": "Zenos",
-            "condition": "None",
-            "name": "Thorfinn",
-            "package": "Re: Take",
-            "reshasha": "671ecab19829a1db22a596dfd36ff529",
-            "resource": "Thorfinn.png"
         }
     ]
 }
