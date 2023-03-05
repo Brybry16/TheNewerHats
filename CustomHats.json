@@ -56,6 +56,16 @@
         },
         {
             "author": "Zenos",
+            "backresource": "Faputa_back.png",
+            "condition": "None",
+            "name": "Faputa",
+            "package": "Re: Take",
+            "reshasha": "e3cd7ff89830785e6d1d505f940bccc5",
+            "reshashb": "2662a422ccf4a70111d70e8e17948d6b",
+            "resource": "Faputa.png"
+        },
+        {
+            "author": "Zenos",
             "backresource": "Jaskier_back.png",
             "condition": "None",
             "name": "Jaskier",
