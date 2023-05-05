@@ -22,16 +22,6 @@
         },
         {
             "author": "Zenos",
-            "backresource": "Chishiya_back.png",
-            "condition": "None",
-            "name": "Chishiya",
-            "package": "Re: Take",
-            "reshasha": "567aaad5d2cf778f6626c207acc7f957",
-            "reshashb": "c547e2cef04fead52275646dc6752865",
-            "resource": "Chishiya.png"
-        },
-        {
-            "author": "Zenos",
             "condition": "None",
             "name": "Foo Fighter",
             "package": "Re: Take",
@@ -97,6 +87,14 @@
             "reshasha": "15cdb09ecbaae4e05ea3f49131ef7340",
             "reshashb": "e6ca084db6edc2971a1ff27f9b8f6102",
             "resource": "Tamaki.png"
+        },
+        {
+            "author": "Zenos",
+            "condition": "None",
+            "name": "Thorfinn",
+            "package": "Re: Take",
+            "reshasha": "671ecab19829a1db22a596dfd36ff529",
+            "resource": "Thorfinn.png"
         }
     ]
 }
