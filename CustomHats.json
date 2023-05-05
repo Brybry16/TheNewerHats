@@ -50,13 +50,13 @@
         },
         {
             "author": "Zenos",
-            "backresource": "Livai_back.png",
+            "backresource": "Knut_back.png",
             "condition": "None",
-            "name": "Livai",
+            "name": "Knut",
             "package": "Re: Take",
-            "reshasha": "18b4d285bdea11fe17eb2438b21dedde",
-            "reshashb": "fd6673522b47de7132b4a1b522bc2f73",
-            "resource": "Livai.png"
+            "reshasha": "8f5717b4a080ef3b6b7dee34ba481119",
+            "reshashb": "f1a4579b4cf3132794577854296a94db",
+            "resource": "Knut.png"
         },
         {
             "author": "Zenos",
